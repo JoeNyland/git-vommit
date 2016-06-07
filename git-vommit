@@ -5,7 +5,7 @@
 # As the title suggests, this plugin makes Git vomit, so you learn the hard way *not* to type `git vommit`.
 
 main() {
-  echo $(git log -p --oneline)
+  echo $(git log -p --oneline --binary)
 }
 
 main
