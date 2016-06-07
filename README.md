@@ -21,6 +21,10 @@ Run the installation routine (requires `make`)
 make install
 ```
 
+## Usage
+Just [accidentally] type `git vommit` from a Git repo
+![Demo](demo.gif)
+
 ## Uninstall
 `cd` into the repo:
 ```
