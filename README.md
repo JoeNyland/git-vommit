@@ -10,14 +10,14 @@ This is a silly little plugin and should obviously not be installed anyway near 
 ## Installation
 
 ### Homebrew
-`brew install masterroot24/git/git-vommit`
+`brew install joenyland/git/git-vommit`
 
-Or `brew tap masterroot24/git` and then `brew install git-vommit`.
+Or `brew tap joenyland/git` and then `brew install git-vommit`.
 
 ### Source
 Clone the repo:
 ```
-git clone https://github.com/MasterRoot24/git-vommit.git
+git clone https://github.com/JoeNyland/git-vommit.git
 ```
 `cd` into the repo:
 ```
