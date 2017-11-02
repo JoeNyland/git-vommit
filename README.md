@@ -9,10 +9,17 @@ This is a silly little plugin and should obviously not be installed anyway near 
 
 ## Installation
 
-### Homebrew
+### MacOS via Homebrew
 `brew install joenyland/git/git-vommit`
 
 Or `brew tap joenyland/git` and then `brew install git-vommit`.
+
+### Gentoo
+
+```
+layman -o https://raw.githubusercontent.com/JoeNyland/gentoo-overlay/master/repositories.xml -f -a joenyland
+emerge dev-vcs/git-vommit
+```
 
 ### Source
 Clone the repo:
